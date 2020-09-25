@@ -31,7 +31,7 @@
 
 <p align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akasai&show_icons=true&count_private=true&hide=html,python,php" />
-  <img src="https://github-readme-stats.vercel.app/api?username=akasai&show_icons=true&line_height=24&count_private=true&hide=contribs&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akasai&show_icons=true&line_height=32&count_private=true&hide=contribs&include_all_commits=true" />
 </p>
 
 ---
