@@ -4,7 +4,7 @@
 
 🐋 I’m currently working on ...
 
-🔗 Development blog : [akasai.github.io](https://akasai.github.io)  
+🔗 Development blog : [akasai.space](https://akasai.space)  
 
 <br/>
 
